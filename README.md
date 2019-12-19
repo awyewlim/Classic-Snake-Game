@@ -1,2 +1,2 @@
 # snakegame
-Just a testing from an absolute beginner
+Just a testing as an absolute beginner
